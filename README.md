@@ -7,7 +7,7 @@ you can visit our website community page to JOIN the community for FREE -
 <a style="display: inline;" href="https://letscodeofficial.com"><img src="https://www.letscodeofficial.com/static/images/favicon.ico" height="128px"/></a>
 </br>
 </br>
-<a href="www.letscodeofficial.com" style="font-size: 20px; font-weight: 400; border-style: solid; color: white; padding: 8px;">Join Now For Free</a>
+<a href="https://letscodeofficial.com" style="font-size: 20px; font-weight: 400; border-style: solid; color: white; padding: 8px;">Join Now For Free</a>
 
 </br>
 </br>
@@ -23,7 +23,7 @@ Read the blog's written and maintained by world class programmers here for FREE 
 <a style="display: inline;" href="https://www.blog.letscodeofficial.com"><img src="https://www.letscodeofficial.com/static/images/favicon.ico" height="128px"/></a>
 </br>
 </br>
-<a href="www.blog.letscodeofficial.com" style="font-size: 20px; font-weight: 400; border-style: solid; color: white; padding: 8px;">Read Now</a>
+<a href="https://blog.letscodeofficial.com" style="font-size: 20px; font-weight: 400; border-style: solid; color: white; padding: 8px;">Read Now</a>
 
 </br>
 </br>
@@ -96,7 +96,7 @@ Read the blog's written and maintained by world class programmers here for FREE 
 <a style="display: inline;" href="https://letscodeofficial.com"><img src="https://www.letscodeofficial.com/static/images/jarvis/jarvisLogo.svg" height="128px"/></a>
 </br>
 </br>
-<a href="www.letscodeofficial.com/jarvis" style="font-size: 20px; font-weight: 400; border-style: solid; color: white; padding: 8px;">Checkout Now</a>
+<a href="https://letscodeofficial.com/jarvis" style="font-size: 20px; font-weight: 400; border-style: solid; color: white; padding: 8px;">Checkout Now</a>
 
 </br>
 
